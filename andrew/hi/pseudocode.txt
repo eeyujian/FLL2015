@@ -1,0 +1,18 @@
+ Meathane
+
+1.move forward N rotations
+2.turn left 90 degrees
+3.move forward <1 rotations
+4.turn right 90 degrees
+5.move foward N rotations
+6.turn right 90 degrees
+7.move forward <1 rotations
+8.raise hook
+9.turn left 90 degrees
+10.move backwards N rotations 
+11.turn left 
+12.move backwards <1 rotations
+13.turn right 90 degrees
+14. lower hook
+15 raise hook
+16 move backwards N rotations 
